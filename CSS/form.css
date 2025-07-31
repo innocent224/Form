@@ -24,6 +24,7 @@
 .form-body {
    background-image:url(Resources/images/bg-intro-desktop.png) ;
    background-color: var(--Blue);
+   margin-top: 20px;
 }
 
 #proposal-request{
